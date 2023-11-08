@@ -8,10 +8,10 @@ import Foundation
 func readStory() {
     chapterOne()
     chapterTwo()
-    chapterThree()
+    chapterThree1()
+    chapterThree2()
     chapterFour()
     chapterFive()
 }
 
 readStory()
-
